@@ -6,7 +6,7 @@
 
 <head>
 	
-	<title>Register New User Form</title>
+	<title>Register New Character Form</title>
 	
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -111,7 +111,7 @@
 						<!-- Register Button -->
 						<div style="margin-top: 10px" class="form-group">						
 							<div class="col-sm-6 controls">
-								<button type="submit" class="btn btn-primary">Register</button>
+								<button type="submit" class="btn btn-primary">Sign Up</button>
 							</div>
 						</div>
 						
